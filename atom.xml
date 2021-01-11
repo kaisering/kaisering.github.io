@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/kaisering.github.io/public/atom.xml" rel="self"/>
+  <link href="https://github.com/kaisering.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/kaisering.github.io/public/"/>
+  <link href="https://github.com/kaisering.github.io/"/>
   <updated>2021-01-10T11:59:54.496Z</updated>
-  <id>https://github.com/kaisering.github.io/public/</id>
+  <id>https://github.com/kaisering.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/kaisering.github.io/public/2021/01/10/hello-world/"/>
-    <id>https://github.com/kaisering.github.io/public/2021/01/10/hello-world/</id>
+    <link href="https://github.com/kaisering.github.io/2021/01/10/hello-world/"/>
+    <id>https://github.com/kaisering.github.io/2021/01/10/hello-world/</id>
     <published>2021-01-10T11:59:54.496Z</published>
     <updated>2021-01-10T11:59:54.496Z</updated>
     
