@@ -6,7 +6,7 @@
   <link href="https://github.com/kaisering.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/kaisering.github.io/"/>
-  <updated>2021-01-10T11:59:54.496Z</updated>
+  <updated>2021-01-12T02:08:51.699Z</updated>
   <id>https://github.com/kaisering.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>links</title>
+    <link href="https://github.com/kaisering.github.io/2021/01/12/links/"/>
+    <id>https://github.com/kaisering.github.io/2021/01/12/links/</id>
+    <published>2021-01-12T02:08:51.000Z</published>
+    <updated>2021-01-12T02:08:51.699Z</updated>
+    
+    <content type="html"><![CDATA[<div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"ee669126f653855f589f","clientSecret":"5669e6253207b59e0db9308d905338e29a6b6cb6","repo":"kaisering.github.io","owner":"kaisering","admin":"kaisering","distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+&lt;div id=&quot;gitalk-container&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; hr</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
